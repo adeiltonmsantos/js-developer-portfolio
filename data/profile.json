@@ -46,13 +46,18 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "DataHandler - Aplicação desenvolvida no Google Colab para classificar dados de exames de mercadorias pré-embaladas",
+      "url": "https://github.com/adeiltonmsantos/datahandler",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Validate Reports - Aplicação desenvolvida no Google Colab para analisar laudos de mercadorias pré-embaladas",
+      "url": "https://github.com/adeiltonmsantos/validatereports",
+      "github": true
+    },
+    {
+      "name": "Desafio DIO Responsividade / Clone Discord - Desafio de projeto relacionado à trilha CSS/Responsividade do curso BootCamp Frontend DIO Santander. Trata-se do clone de uma página do Discord, utilizando HTML e CSS",
+      "url": "https://github.com/adeiltonmsantos/desafio-dio-discord",
       "github": true
     }
   ],
