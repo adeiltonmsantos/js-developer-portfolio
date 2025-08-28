@@ -37,5 +37,26 @@
 }
 
 .project-image{
-    width: 20rem;
+    width: 15rem;
+}
+
+.button-repository{
+    background: #55569e;
+    border: 1px solid #fff;
+    border-radius: 1rem;
+    color: #fff;
+    padding: 0.5rem;
+    text-align: center;
+    width: 9rem;
+    transition: all ease-in-out .5s;
+}
+
+.button-repository:hover{
+    background-color: rgba(0,0,0,0.5);
+}
+
+@media screen and (min-width: 475px) {
+    .project-image{
+        width: 22rem;
+    }
 }
