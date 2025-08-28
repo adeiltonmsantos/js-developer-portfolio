@@ -48,18 +48,21 @@
     {
       "name": "DataHandler",
       "description": "Aplicação desenvolvida no Google Colab para classificar dados de exames de mercadorias pré-embaladas",
+      "src": "assets/img/projects/mockup-datahandler.png",
       "url": "https://github.com/adeiltonmsantos/datahandler",
       "github": true
     },
     {
       "name": "Validate Reports",
       "description": "Aplicação desenvolvida no Google Colab para analisar laudos de mercadorias pré-embaladas",
+      "src": "assets/img/projects/mockup-validatereports.png",
       "url": "https://github.com/adeiltonmsantos/validatereports",
       "github": true
     },
     {
       "name": "Desafio DIO Responsividade / Clone Discord",
       "description": "Desafio de projeto relacionado à trilha CSS/Responsividade do curso BootCamp Frontend DIO Santander. Trata-se do clone de uma página do Discord, utilizando HTML e CSS",
+      "src": "assets/img/projects/mockup-discord.png",
       "url": "https://github.com/adeiltonmsantos/desafio-dio-discord",
       "github": true
     }
