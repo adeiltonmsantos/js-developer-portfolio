@@ -43,6 +43,7 @@ function updatePortfolio(profileData) {
         return `
             <li>
                 <h3 ${project.github ? 'class="github"' : ''}>${project.name}</h3>
+                <img class="project-image">
                 <p>${project.description}</p>
                 <a href="${project.url}" target="_blank">${project.url}</a>
             </li>
